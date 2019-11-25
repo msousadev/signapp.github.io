@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/assinaturaapp/static/css/main.68f55bf3.chunk.css",
+    "main.js": "/assinaturaapp/static/js/main.a07cb0fc.chunk.js",
+    "main.js.map": "/assinaturaapp/static/js/main.a07cb0fc.chunk.js.map",
+    "runtime~main.js": "/assinaturaapp/static/js/runtime~main.335a9d3f.js",
+    "runtime~main.js.map": "/assinaturaapp/static/js/runtime~main.335a9d3f.js.map",
+    "static/css/2.1e66eaca.chunk.css": "/assinaturaapp/static/css/2.1e66eaca.chunk.css",
+    "static/js/2.0b013814.chunk.js": "/assinaturaapp/static/js/2.0b013814.chunk.js",
+    "static/js/2.0b013814.chunk.js.map": "/assinaturaapp/static/js/2.0b013814.chunk.js.map",
+    "index.html": "/assinaturaapp/index.html",
+    "precache-manifest.ba859a4f1d4e4740cea1b7bc0f8abb3b.js": "/assinaturaapp/precache-manifest.ba859a4f1d4e4740cea1b7bc0f8abb3b.js",
+    "service-worker.js": "/assinaturaapp/service-worker.js",
+    "static/css/2.1e66eaca.chunk.css.map": "/assinaturaapp/static/css/2.1e66eaca.chunk.css.map",
+    "static/css/main.68f55bf3.chunk.css.map": "/assinaturaapp/static/css/main.68f55bf3.chunk.css.map"
+  }
+}
